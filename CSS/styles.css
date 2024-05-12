@@ -1,0 +1,36 @@
+/* *{
+    color: rgb(49, 10, 49)
+    padding: 0%;
+} */
+body{
+    background-color: rgb(54, 65, 184);
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* por id  */
+
+header{
+    
+    background-color: rgb(38, 143, 69);
+    height: 100px;
+    /* text-align: center; */
+    line-height: 100px;
+    color: rgb(2, 2, 2);
+    border-bottom: 3px dashed blackS ;
+
+}
+#head, #testing {
+    background-color: rgb(157, 157, 214);
+    width: 50% auto;
+    font-size: 50px;
+    /* width: 1100px auto; */
+    border: 21x solid rgb(0, 0, 0);
+    text-align: center;
+    
+}
+
+/* por clases */
+.article{
+
+
+}
+
